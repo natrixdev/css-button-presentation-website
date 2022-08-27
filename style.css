@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body {
+    background-color: #36393f;
+}
+
+strong {
+    color: aquamarine;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+}
+
+.butt {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.button {
+    background: linear-gradient(#e66465, #9198e5);
+    font-size: 40px;
+    font-family: 'Anek Telugu', sans-serif;
+    border-radius: 12px;
+}
+
+.button :hover {
+    color: linear-gradient(#e66465, #9198e5);
+    background-color: black;
+    border-radius: 12px;
+}
